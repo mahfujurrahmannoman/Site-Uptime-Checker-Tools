@@ -1,0 +1,5 @@
+{
+  "name": "Site Status Checker",
+  "description": "An elegant web application that uses the Gemini API to check if a website is up or down, providing real-time status updates and a history of your checks.",
+  "requestFramePermissions": []
+}
